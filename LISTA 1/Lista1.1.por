@@ -14,8 +14,12 @@ Meu nome é : Fulano de Tal
 	funcao inicio()
 	{
 		
+
 		//PROGRAMA BÁSICO - INCLUSÃO DE COMENTÁRIO 
 		//LINHA MODIFICADO NO RAMO MASTER
+
+		//PROGRAMA BÁSICO - INCLUSÃO DE COMENTÁRIO
+		//LINHA MODIFICADA NO RAMO - TESTE -
 		
 		cadeia nome
 		escreva("Digite seu nome: ")
@@ -29,7 +33,7 @@ Meu nome é : Fulano de Tal
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 376; 
+ * @POSICAO-CURSOR = 295; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
