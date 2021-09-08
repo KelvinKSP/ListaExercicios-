@@ -13,6 +13,9 @@ Meu nome é : Fulano de Tal
 	
 	funcao inicio()
 	{
+		
+		//PROGRAMA BÁSICO - INCLUSÃO DE COMENTÁRIO 
+		
 		cadeia nome
 		escreva("Digite seu nome: ")
 		leia(nome)
@@ -25,7 +28,7 @@ Meu nome é : Fulano de Tal
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 16; 
+ * @POSICAO-CURSOR = 339; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
