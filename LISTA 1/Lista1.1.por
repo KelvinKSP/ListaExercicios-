@@ -16,11 +16,12 @@ Meu nome é : Fulano de Tal
 		
 		//PROGRAMA BÁSICO - INCLUSÃO DE COMENTÁRIO 
 		
-		cadeia nome
-		escreva("Digite seu nome: ")
-		leia(nome)
 		
-		escreva("\nSeu nome é : ", nome)
+		cadeia name
+		escreva("Digite seu nome: ")
+		leia(name)
+		
+		escreva("\nSeu nome é : ", name)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -28,7 +29,7 @@ Meu nome é : Fulano de Tal
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 339; 
+ * @POSICAO-CURSOR = 441; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
